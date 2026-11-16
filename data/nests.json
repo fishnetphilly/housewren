@@ -1,6 +1,11 @@
 {
- "generated_at": "2026-11-15T22:35:47-05:00",
- "last_check": null,
+ "generated_at": "2026-11-15T22:42:06-05:00",
+ "last_check": {
+  "finished_at": "2026-11-15T18:00:03-05:00",
+  "outcome": "ok",
+  "message": "finished",
+  "new": 0
+ },
  "nests": [
   {
    "id": "cl:a4u1ScupjgD5vYn3GBVim1",
