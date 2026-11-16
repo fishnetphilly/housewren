@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1b1426">
+<meta name="robots" content="noindex, nofollow">
+<title>House Wren</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+  :root {
+    --bg: #1b1426; --card: #261c35; --card2: #2f2342; --line: #3b2d52;
+    --text: #efe9f7; --muted: #a99bbd; --accent: #b79cff; --wren: #c9965f;
+    --good: #7fd6a3; --warn: #f0c26a; --bad: #ef8a8a;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { position: sticky; top: 0; z-index: 5; background: var(--bg);
+    padding: calc(12px + env(safe-area-inset-top)) 16px 8px; border-bottom: 1px solid var(--line); }
+  .top { display: flex; align-items: center; gap: 10px; }
+  .top img { width: 34px; height: 34px; border-radius: 9px; }
+  h1 { font-size: 20px; margin: 0; letter-spacing: .2px; }
+  .updated { font-size: 12px; color: var(--muted); margin-left: auto; text-align: right; }
+  .tabs { display: flex; gap: 6px; margin-top: 10px; }
+  .tab { flex: 1; border: 1px solid var(--line); background: var(--card); color: var(--muted);
+    border-radius: 10px; padding: 8px 4px; font: inherit; font-size: 14px; }
+  .tab.on { background: var(--accent); color: #1b1426; border-color: var(--accent); font-weight: 600; }
+  .tab b { font-weight: 700; }
+  .filters { display: flex; gap: 6px; margin-top: 8px; overflow-x: auto; padding-bottom: 2px; }
+  .chip { white-space: nowrap; border: 1px solid var(--line); background: transparent; color: var(--muted);
+    border-radius: 999px; padding: 5px 11px; font: inherit; font-size: 13px; }
+  .chip.on { color: var(--text); border-color: var(--accent); background: var(--card2); }
+  main { padding: 12px 12px calc(28px + env(safe-area-inset-bottom)); max-width: 680px; margin: 0 auto; }
+  .bar { display: flex; align-items: center; justify-content: space-between; color: var(--muted);
+    font-size: 13px; margin: 2px 4px 10px; gap: 8px; }
+  .link { background: none; border: none; color: var(--accent); font: inherit; font-size: 13px; padding: 4px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 13px 14px;
+    margin-bottom: 10px; }
+  .card.new { border-left: 4px solid var(--wren); }
+  .card.saved { border-color: var(--good); }
+  .row1 { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .price { font-size: 21px; font-weight: 700; }
+  .meta { color: var(--muted); font-size: 14px; }
+  .title { margin: 4px 0 2px; font-size: 15px; }
+  .loc { color: var(--muted); font-size: 13px; }
+  .badges { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 7px; }
+  .badge { font-size: 11.5px; padding: 2px 8px; border-radius: 999px; background: var(--card2);
+    color: var(--muted); border: 1px solid var(--line); }
+  .badge.new { color: var(--wren); border-color: var(--wren); }
+  .badge.warn { color: var(--warn); border-color: #6b5a33; }
+  .badge.good { color: var(--good); border-color: #2f5e45; }
+  .missing { font-size: 12.5px; color: var(--muted); margin-top: 7px; }
+  .missing span { color: var(--text); }
+  .actions { display: flex; gap: 8px; margin-top: 11px; }
+  .actions a, .actions button { flex: 1; text-align: center; text-decoration: none; font: inherit; font-size: 14px;
+    padding: 9px 6px; border-radius: 10px; border: 1px solid var(--line); background: var(--card2); color: var(--text); }
+  .actions a.open { background: var(--accent); color: #1b1426; border-color: var(--accent); font-weight: 600; }
+  .actions button.on-save { background: #224a37; border-color: var(--good); color: var(--good); }
+  .actions button.on-pass { background: #4a2626; border-color: var(--bad); color: var(--bad); }
+  .empty { text-align: center; color: var(--muted); padding: 50px 20px; }
+  .notice { background: #3a2c1a; border: 1px solid #6b5a33; color: var(--warn); border-radius: 10px;
+    padding: 9px 12px; font-size: 13px; margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <img src="icon-192.png" alt="">
+    <h1>House Wren</h1>
+    <div class="updated" id="updated">Loading…</div>
+  </div>
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-tab="new">New <b id="n-new"></b></button>
+    <button class="tab" data-tab="all">All <b id="n-all"></b></button>
+    <button class="tab" data-tab="saved">Saved <b id="n-saved"></b></button>
+    <button class="tab" data-tab="passed">Passed <b id="n-passed"></b></button>
+  </div>
+  <div class="filters" id="filters">
+    <button class="chip on" data-type="all">Any type</button>
+    <button class="chip" data-type="room">Rooms</button>
+    <button class="chip" data-type="entire">Entire place</button>
+    <button class="chip" data-philly="1">Philly only</button>
+  </div>
+</header>
+<main>
+  <div id="notice"></div>
+  <div class="bar"><span id="count"></span><button class="link" id="seen">Mark all as seen</button></div>
+  <div id="list"></div>
+</main>
+<script>
+"use strict";
+const STORE = "housewren.v1";
+const state = { tab: "new", type: "all", phillyOnly: false, data: null };
+let saved = { marks: {}, seenThrough: null };
+try { saved = Object.assign(saved, JSON.parse(localStorage.getItem(STORE) || "{}")); } catch (e) {}
+function persist() { try { localStorage.setItem(STORE, JSON.stringify(saved)); } catch (e) {} }
+
+const $ = (id) => document.getElementById(id);
+function esc(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function safeUrl(u) { return /^https:\/\/([a-z]+\.)?craigslist\.org\//.test(u || "") ? u : ""; }
+function ago(iso) {
+  const t = Date.parse(iso); if (!t) return "";
+  const m = Math.round((Date.now() - t) / 60000);
+  if (m < 1) return "just now"; if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60); if (h < 24) return h + " h ago";
+  return Math.round(h / 24) + " d ago";
+}
+function isNew(n) { return !saved.seenThrough || n.first_seen > saved.seenThrough; }
+function mark(n) { return saved.marks[n.id] || ""; }
+
+function visible() {
+  const all = (state.data?.nests || []).filter(n =>
+    (state.type === "all" || n.type === state.type) && (!state.phillyOnly || n.area === "philadelphia"));
+  const by = {
+    new: all.filter(n => isNew(n) && !mark(n)),
+    all: all.filter(n => mark(n) !== "pass"),
+    saved: all.filter(n => mark(n) === "save"),
+    passed: all.filter(n => mark(n) === "pass"),
+  };
+  for (const k in by) $("n-" + k).textContent = by[k].length || "";
+  return by[state.tab];
+}
+
+function card(n) {
+  const bits = [];
+  if (n.bedrooms != null) bits.push(n.bedrooms + " br");
+  if (n.sqft != null) bits.push(n.sqft.toLocaleString() + " ft²");
+  const badges = [];
+  if (isNew(n)) badges.push('<span class="badge new">New</span>');
+  badges.push(`<span class="badge">${n.type === "room" ? "Room / share" : n.type === "entire" ? "Entire place" : "Type unclear"}</span>`);
+  if (n.verified) badges.push('<span class="badge good">All requirements confirmed</span>');
+  if (n.area === "outside") badges.push('<span class="badge warn">Outside Philly</span>');
+  if (n.area === "unclear") badges.push('<span class="badge">Area unclear</span>');
+  if (n.odd_price) badges.push('<span class="badge warn">Unusual price</span>');
+  if (n.duplicate) badges.push('<span class="badge warn">Possible duplicate</span>');
+  const m = mark(n), url = safeUrl(n.url);
+  return `<div class="card${isNew(n) ? " new" : ""}${m === "save" ? " saved" : ""}">
+    <div class="row1"><span class="price">${n.price != null ? "$" + n.price.toLocaleString() : "No price"}</span>
+      <span class="meta">${esc(bits.join(" · "))}</span></div>
+    <div class="title">${esc(n.title)}</div>
+    ${n.location ? `<div class="loc">${esc(n.location)} · seen ${esc(ago(n.first_seen))}</div>` : `<div class="loc">seen ${esc(ago(n.first_seen))}</div>`}
+    <div class="badges">${badges.join("")}</div>
+    ${n.missing?.length ? `<div class="missing">Still to check: <span>${esc(n.missing.join(", "))}</span></div>` : ""}
+    <div class="actions">
+      ${url ? `<a class="open" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Open listing</a>` : ""}
+      <button data-id="${esc(n.id)}" data-mark="save" class="${m === "save" ? "on-save" : ""}">${m === "save" ? "★ Saved" : "☆ Save"}</button>
+      <button data-id="${esc(n.id)}" data-mark="pass" class="${m === "pass" ? "on-pass" : ""}">${m === "pass" ? "Passed" : "✕ Pass"}</button>
+    </div></div>`;
+}
+
+function render() {
+  if (!state.data) return;
+  const list = visible();
+  $("count").textContent = `${list.length} nest${list.length === 1 ? "" : "s"}`;
+  $("seen").style.visibility = state.tab === "new" && list.length ? "visible" : "hidden";
+  const empty = { new: "Nothing new. House Wren checks at 8 AM and 6 PM.", all: "No nests match these filters.",
+    saved: "Tap ☆ Save on a nest to keep it here.", passed: "Nests you pass on go here." }[state.tab];
+  $("list").innerHTML = list.length ? list.map(card).join("") : `<div class="empty">${empty}</div>`;
+}
+
+$("tabs").addEventListener("click", e => {
+  const b = e.target.closest(".tab"); if (!b) return;
+  state.tab = b.dataset.tab;
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("on", t === b));
+  render(); window.scrollTo(0, 0);
+});
+$("filters").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  if (b.dataset.type) {
+    state.type = b.dataset.type;
+    document.querySelectorAll(".chip[data-type]").forEach(c => c.classList.toggle("on", c === b));
+  } else { state.phillyOnly = !state.phillyOnly; b.classList.toggle("on", state.phillyOnly); }
+  render();
+});
+$("list").addEventListener("click", e => {
+  const b = e.target.closest("button[data-mark]"); if (!b) return;
+  const id = b.dataset.id, want = b.dataset.mark;
+  if (saved.marks[id] === want) delete saved.marks[id]; else saved.marks[id] = want;
+  persist(); render();
+});
+$("seen").addEventListener("click", () => {
+  const latest = (state.data?.nests || []).reduce((a, n) => n.first_seen > a ? n.first_seen : a, saved.seenThrough || "");
+  saved.seenThrough = latest; persist(); render();
+});
+
+async function load() {
+  let data = null, offline = false;
+  try {
+    const r = await fetch("data/nests.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+  } catch (e) {
+    offline = true;
+    try { const c = await caches.match("data/nests.json"); if (c) data = await c.json(); } catch (e2) {}
+  }
+  if (!data) { $("updated").textContent = ""; $("list").innerHTML = '<div class="empty">Couldn\'t load nests. Check your connection.</div>'; return; }
+  state.data = data;
+  $("updated").innerHTML = `Updated ${esc(ago(data.generated_at))}${offline ? "<br>offline copy" : ""}`;
+  const notes = [];
+  if (data.last_check && data.last_check.outcome && data.last_check.outcome !== "ok")
+    notes.push(`Last check: ${esc(data.last_check.outcome)}. ${esc(data.last_check.message || "")}`);
+  const age = (Date.now() - Date.parse(data.generated_at)) / 3600000;
+  if (age > 15) notes.push("No update from House Wren for over 15 hours. Is the PC on?");
+  $("notice").innerHTML = notes.map(t => `<div class="notice">${t}</div>`).join("");
+  render();
+}
+load();
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
