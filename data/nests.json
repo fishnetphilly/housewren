@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-16T08:00:14-05:00",
+ "generated_at": "2026-11-16T18:00:13-05:00",
  "last_check": {
-  "finished_at": "2026-11-16T08:00:14-05:00",
+  "finished_at": "2026-11-16T18:00:13-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 8
+  "new": 9
  },
  "nests": [
   {
@@ -165,6 +165,29 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:mPJpmcTQRL88cHgBgB8wqH",
+   "url": "https://www.craigslist.org/view/d/philadelphia-cool-ground-floor-loft/mPJpmcTQRL88cHgBgB8wqH",
+   "title": "Cool ground-floor loft space in Fishtown",
+   "price": 650,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Fishtown",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
    "id": "cl:6ZH355SuPQ61co8yFtx4Sd",
    "url": "https://www.craigslist.org/view/d/philadelphia-university-room-for-rent/6ZH355SuPQ61co8yFtx4Sd",
    "title": "University room for rent",
@@ -209,6 +232,29 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:jD7SjJXR7HE4QEzM4kgUCb",
+   "url": "https://www.craigslist.org/view/d/philadelphia-university-room-for-rent/jD7SjJXR7HE4QEzM4kgUCb",
+   "title": "University room for rent",
+   "price": 825,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "West Philadelphia",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
   },
   {
    "id": "cl:ontpqPjTPqYmn9GtUrhpEP",
@@ -1813,6 +1859,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:1t77tz6NzLfm9Te1VeEZsS",
+   "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/1t77tz6NzLfm9Te1VeEZsS",
+   "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
+   "price": 1090,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
    "id": "cl:6RUWBxRmZ7TLaUZo5cyyrR",
    "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/6RUWBxRmZ7TLaUZo5cyyrR",
    "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
@@ -1885,6 +1955,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:faMKixLxVpVeqQ9dQV12tU",
+   "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/faMKixLxVpVeqQ9dQV12tU",
+   "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
+   "price": 1090,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
    "id": "cl:h25M69bLidoz4aaqAx9n8W",
    "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/h25M69bLidoz4aaqAx9n8W",
    "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
@@ -1931,6 +2025,30 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:icvxFSSM4ESzjy24x7d6Vk",
+   "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/icvxFSSM4ESzjy24x7d6Vk",
+   "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
+   "price": 1090,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
   },
   {
    "id": "cl:ifJC7kzU2brGJabC6K6ayy",
@@ -2003,6 +2121,30 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:ucV7iWf5zaLkqsjujnGT6v",
+   "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/ucV7iWf5zaLkqsjujnGT6v",
+   "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
+   "price": 1090,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
   },
   {
    "id": "cl:vFYB3YpJsSp3jJWeLMbdfS",
@@ -2173,6 +2315,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:8ULn9MePZfm6WLR4EbJ121",
+   "url": "https://www.craigslist.org/view/d/philadelphia-spacious-bedroom-available/8ULn9MePZfm6WLR4EbJ121",
+   "title": "Spacious 2 bedroom available now at 4159 Ridge ave!",
+   "price": 1390,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
    "id": "cl:ob7JCEccEkDALJqRtbtce9",
    "url": "https://www.craigslist.org/view/d/philadelphia-spacious-bedroom-available/ob7JCEccEkDALJqRtbtce9",
    "title": "Spacious 2 bedroom available now at 4159 Ridge ave!",
@@ -2219,6 +2385,30 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:rgF4GoGVzay4EPkRQ95jMM",
+   "url": "https://www.craigslist.org/view/d/philadelphia-spacious-bedroom-available/rgF4GoGVzay4EPkRQ95jMM",
+   "title": "Spacious 2 bedroom available now at 4159 Ridge ave!",
+   "price": 1390,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-16T18:00:13-05:00"
   },
   {
    "id": "cl:rqVQNbYSZNv92L5JPbFQ43",
@@ -3532,6 +3722,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:mMf7aXzeBrB5mYuddKAaRc",
+   "url": "https://www.craigslist.org/view/d/doylestown-arden-classic-spacious-br/mMf7aXzeBrB5mYuddKAaRc",
+   "title": "Arden Classic-Spacious 1 BR Apartment | 773 SF - Gym, Pool, Tennis Ct",
+   "price": 1795,
+   "bedrooms": 1,
+   "sqft": 773,
+   "location": "Doylestown",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T18:00:13-05:00"
   },
   {
    "id": "cl:oKxRktmYGGd7jxk8gjfwbY",
