@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T22:42:06-05:00",
+ "generated_at": "2026-11-16T08:00:14-05:00",
  "last_check": {
-  "finished_at": "2026-11-15T18:00:03-05:00",
+  "finished_at": "2026-11-16T08:00:14-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 0
+  "new": 8
  },
  "nests": [
   {
@@ -234,6 +234,29 @@
    "first_seen": "2026-11-07T19:26:00-05:00"
   },
   {
+   "id": "cl:rxaZtuoSPTMZSFrcQ8Zjm2",
+   "url": "https://www.craigslist.org/view/d/philadelphia-room-share-in-my-northern/rxaZtuoSPTMZSFrcQ8Zjm2",
+   "title": "Room share in my Northern Liberties House - $900 plus 1/2 utilities",
+   "price": 900,
+   "bedrooms": 3,
+   "sqft": 650,
+   "location": "Northern Liberties - Phila., PA",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
    "id": "cl:5EcPLjYvzWGwUR6pRsawv9",
    "url": "https://www.craigslist.org/view/d/philadelphia-1200-big-bedroom-oxford/5EcPLjYvzWGwUR6pRsawv9",
    "title": "$1200 BIg 1 bedroom - oxford circle",
@@ -278,6 +301,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:pswHunMW3Wz9cXm7NMx4bQ",
+   "url": "https://www.craigslist.org/view/d/philadelphia-share-luxury-furnished-br/pswHunMW3Wz9cXm7NMx4bQ",
+   "title": "Share luxury Furnished 3 Br House with mature professioanl gay male.",
+   "price": 1100,
+   "bedrooms": 3,
+   "sqft": 2560,
+   "location": "Northern Liberties - Phila., PA",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
   },
   {
    "id": "cl:6x9UyVzFfBw8GuCFa8ZhBq",
@@ -485,6 +531,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:38BbBChnv3rCxCV4rTcj1w",
+   "url": "https://www.craigslist.org/view/d/philadelphia-nice-bustleton-apartment/38BbBChnv3rCxCV4rTcj1w",
+   "title": "Nice Bustleton Apartment",
+   "price": 1490,
+   "bedrooms": 2,
+   "sqft": 1000,
+   "location": "Bustleton & Veree",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
   },
   {
    "id": "cl:bkiqoGT7ZYWn6D39cNEzoY",
@@ -1077,6 +1146,30 @@
    "first_seen": "2026-11-07T19:26:00-05:00"
   },
   {
+   "id": "cl:5oj3Uyi6J88hphX7XinG3u",
+   "url": "https://www.craigslist.org/view/d/philadelphia-spacious-marina-bedroom/5oj3Uyi6J88hphX7XinG3u",
+   "title": "Spacious Marina 2 Bedroom Apartment Across from Moscone Park",
+   "price": 700,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
    "id": "cl:9qu699BN7Vmk8RP5h6DY9f",
    "url": "https://www.craigslist.org/view/d/philadelphia-lovely-one-bedroom-living/9qu699BN7Vmk8RP5h6DY9f",
    "title": "\u00f0 Lovely One Bedroom Living Space for Rent",
@@ -1149,6 +1242,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:37ohw43WLb5qK49HZNbDYq",
+   "url": "https://www.craigslist.org/view/d/philadelphia-best-deal-in-town-2640/37ohw43WLb5qK49HZNbDYq",
+   "title": "BEST Deal in Town 2640 S. Hobson St., Phila., PA 19142. 3 BR/1BA",
+   "price": 800,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
    "id": "cl:8EdJ5XYEnrVJ7d5cChJeZE",
    "url": "https://www.craigslist.org/view/d/philadelphia-your-next-home-is-full-of/8EdJ5XYEnrVJ7d5cChJeZE",
    "title": "\u00f0 \u00a1\u00e2 \u00a1 Your Next Home Is Full of Possibilities",
@@ -1197,6 +1314,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:b5MhNEg4ZC6C6R8SiiBgCK",
+   "url": "https://www.craigslist.org/view/d/philadelphia-for-rent-twin-in-for-900/b5MhNEg4ZC6C6R8SiiBgCK",
+   "title": "FOR RENT - Twin in 19152 for $900 + utilities additional. 3br/1ba",
+   "price": 900,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
    "id": "cl:1h4f7PkoPmr5XyrXm5y4Nq",
    "url": "https://www.craigslist.org/view/d/philadelphia-recently-renovated-two/1h4f7PkoPmr5XyrXm5y4Nq",
    "title": "**Recently renovated two bedroom, One bathroom, rowhouse available***",
@@ -1219,6 +1360,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:iAFgufEFGnUhVGxwk4XM2Q",
+   "url": "https://www.craigslist.org/view/d/philadelphia-this-home-is-ideal-for/iAFgufEFGnUhVGxwk4XM2Q",
+   "title": "This home is ideal for families",
+   "price": 1000,
+   "bedrooms": 2,
+   "sqft": 1100,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
   },
   {
    "id": "cl:2y6jXAJvCSf4wXnRXSPVpY",
@@ -3991,6 +4156,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:dTWR8HLYSgu1D2MZ1udscF",
+   "url": "https://www.craigslist.org/view/d/west-chester-serenity-now/dTWR8HLYSgu1D2MZ1udscF",
+   "title": "Serenity Now",
+   "price": 4100,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "West Chester",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-16T08:00:14-05:00"
   },
   {
    "id": "cl:jT1FqU2L2v1DzUUPscBEub",
