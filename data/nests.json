@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-17T18:00:13-05:00",
+ "generated_at": "2026-11-18T08:00:20-05:00",
  "last_check": {
-  "finished_at": "2026-11-17T18:00:13-05:00",
+  "finished_at": "2026-11-18T08:00:19-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 0
+  "new": 20
  },
  "nests": [
   {
@@ -186,6 +186,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
+   "id": "cl:g9ToNMfoHV1KDqSBvKZq7z",
+   "url": "https://www.craigslist.org/view/d/philadelphia-northeast-philadelphia/g9ToNMfoHV1KDqSBvKZq7z",
+   "title": "NORTHEAST PHILADELPHIA ROOMS 4 RENT",
+   "price": 800,
+   "bedrooms": 4,
+   "sqft": 160,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:kLRup9vBpzywsrfYi7PQaK",
@@ -441,6 +464,29 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:9s5nPcN8U2V5VGYnk3n7Us",
+   "url": "https://www.craigslist.org/view/d/philadelphia-cozy-bedroom-available/9s5nPcN8U2V5VGYnk3n7Us",
+   "title": "Cozy 1 Bedroom available, Roxborough Area!!!",
+   "price": 1100,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Roxborough",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:o2d2hnnBe6onjJBFDTnKyb",
    "url": "https://www.craigslist.org/view/d/philadelphia-cool-1bed-1bath-apt/o2d2hnnBe6onjJBFDTnKyb",
    "title": "Cool 1bed/1bath apt",
@@ -485,6 +531,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
+   "id": "cl:edJjAXR8r9Q9EjefvcsBRW",
+   "url": "https://www.craigslist.org/view/d/philadelphia-cozy-studio-in-northern/edJjAXR8r9Q9EjefvcsBRW",
+   "title": "\u00f0 Cozy Studio in Northern Liberties",
+   "price": 1150,
+   "bedrooms": null,
+   "sqft": null,
+   "location": "Northern Liberties",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:ksWagxhPHwyqQYvujaUuDR",
@@ -623,6 +692,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:vHb6zBjDW2hBAtweiN6bkZ",
+   "url": "https://www.craigslist.org/view/d/philadelphia-charming-bedroom-in/vHb6zBjDW2hBAtweiN6bkZ",
+   "title": "\u00f0 Charming 1-Bedroom in Northern Liberties",
+   "price": 1399,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Northern Liberties",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:ahUe7nxiA7LaMv1FYwbTKA",
@@ -878,6 +970,29 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:fkxDRdnT93wM8zppcR9XXN",
+   "url": "https://www.craigslist.org/view/d/philadelphia-wake-up-fall-in-love/fkxDRdnT93wM8zppcR9XXN",
+   "title": "\u00f0 Wake Up & Fall in Love! Stunning East Falls 1 bed with a Sunrise Vi",
+   "price": 1599,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "East Falls - Only 15 minutes to Center City",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:x8MKCEmVd9F2G2NPgdewLr",
    "url": "https://www.craigslist.org/view/d/philadelphia-rox-manayunk-sunny/x8MKCEmVd9F2G2NPgdewLr",
    "title": "Rox/Manayunk Sunny, spacious 2BR/1BA",
@@ -901,6 +1016,29 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:bwK3XTixzMfFjKBDPNcctH",
+   "url": "https://www.craigslist.org/view/d/philadelphia-spacious-bedroom-bath-in/bwK3XTixzMfFjKBDPNcctH",
+   "title": "\u00f0 Spacious 2-Bedroom, 2-Bath in East Falls",
+   "price": 1799,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "East Falls",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:uRbMdN6nzrmVLe2J3z7mnK",
    "url": "https://www.craigslist.org/view/d/philadelphia-fresh-bright-parking-great/uRbMdN6nzrmVLe2J3z7mnK",
    "title": "Fresh & Bright ! PARKING ! Great Location !",
@@ -922,6 +1060,52 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:1AJXxf8VHgrbzrCroYx6xP",
+   "url": "https://www.craigslist.org/view/d/philadelphia-fall-in-love-with-your/1AJXxf8VHgrbzrCroYx6xP",
+   "title": "\u00f0 FALL IN LOVE WITH YOUR NEXT HOME \u00e2 UPDATED 2BR AT THE PRESTON \u00f0",
+   "price": 1999,
+   "bedrooms": 2,
+   "sqft": 900,
+   "location": "East Falls",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
+   "id": "cl:69aVXZixAXKyq4VvaaHxoX",
+   "url": "https://www.craigslist.org/view/d/philadelphia-spacious-and-sunny-bedroom/69aVXZixAXKyq4VvaaHxoX",
+   "title": "\u00f0 Spacious and Sunny 2-bedroom in East Falls (pet friendly!)",
+   "price": 1999,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "East Falls - Only 15 minutes to Center City",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:aNaGGsPVmYtKMWAxWHu9YH",
@@ -993,6 +1177,29 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:9GLN3WgpfjGp84nUcY8BSK",
+   "url": "https://www.craigslist.org/view/d/philadelphia-2600-wharton-2602-wharton/9GLN3WgpfjGp84nUcY8BSK",
+   "title": "2600 Wharton/2602 Wharton Unit 1",
+   "price": 2100,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Grays Ferry",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:c26Km5aFkVSpiW2vWKFCkg",
    "url": "https://www.craigslist.org/view/d/philadelphia-callowhill-condo-for-rent/c26Km5aFkVSpiW2vWKFCkg",
    "title": "Callowhill condo for rent",
@@ -1060,6 +1267,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:cnYPUc8fUPiaU1LDn8by2R",
+   "url": "https://www.craigslist.org/view/d/philadelphia-2600-wharton-unit/cnYPUc8fUPiaU1LDn8by2R",
+   "title": "2600 Wharton Unit 2",
+   "price": 2450,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "Grays Ferry",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:moGN8xVqsLGG6tKPnJ6Dca",
@@ -2496,6 +2726,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:8m6AZKZWhVHwzCfpT4kdEQ",
+   "url": "https://www.craigslist.org/view/d/philadelphia-affordable-home-ready-for/8m6AZKZWhVHwzCfpT4kdEQ",
+   "title": "Affordable Home Ready For You",
+   "price": 960,
+   "bedrooms": 3,
+   "sqft": 1590,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:aJCgUtmMqL2U66ZW8v9RyX",
    "url": "https://www.craigslist.org/view/d/philadelphia-beautiful-one-bedroom-one/aJCgUtmMqL2U66ZW8v9RyX",
    "title": "Beautiful One Bedroom One Bathroom Apartment",
@@ -3216,6 +3470,54 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:moRjMaFCWohMDzk335pjRn",
+   "url": "https://www.craigslist.org/view/d/royersford-renovated-br-bath-1st-flr/moRjMaFCWohMDzk335pjRn",
+   "title": "Renovated 2 BR 1 Bath 1st Flr Apartment",
+   "price": 1650,
+   "bedrooms": 2,
+   "sqft": 900,
+   "location": "Linfield",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
+   "id": "cl:fSceNv1cGsX4WT45rFnetN",
+   "url": "https://www.craigslist.org/view/d/merion-station-bedroom-15-bath-townhome/fSceNv1cGsX4WT45rFnetN",
+   "title": "2 bedroom 1.5 bath townhome for rent",
+   "price": 1700,
+   "bedrooms": 2,
+   "sqft": 1780,
+   "location": "Yardley PA",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:rXidSn8tvLTC2DYM2TVcsp",
    "url": "https://www.craigslist.org/view/d/philadelphia-beautiful-apt-bedrooms/rXidSn8tvLTC2DYM2TVcsp",
    "title": "Beautiful Apt # 2 bedrooms 1 bath-NEW APPLIANCES",
@@ -3238,6 +3540,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:twKBnsEvkKw7Wx68fWmNkN",
+   "url": "https://www.craigslist.org/view/d/langhorne-bedroom-15-bath-for-rent-in/twKBnsEvkKw7Wx68fWmNkN",
+   "title": "2 bedroom 1.5 bath for rent in Yardley",
+   "price": 1700,
+   "bedrooms": 2,
+   "sqft": 1260,
+   "location": "Yardley, PA",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:fMTEB7RmPePdzEg8KbFyGC",
@@ -3816,6 +4142,54 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:aHmadLbi8RG8H4fjx81UXQ",
+   "url": "https://www.craigslist.org/view/d/immaculata-upgraded-and-fresh/aHmadLbi8RG8H4fjx81UXQ",
+   "title": "$2775.00 - 3br - 1300ft2 - Upgraded and Fresh",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
+   "id": "cl:wEw2Arzi8RGQrvGDmSam8w",
+   "url": "https://www.craigslist.org/view/d/philadelphia-frame-factory-lofts/wEw2Arzi8RGQrvGDmSam8w",
+   "title": "$1295.00 - 950ft2 - Frame Factory Lofts",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:zv6tPZff8RGRAsxUitoTbw",
    "url": "https://www.craigslist.org/view/d/philadelphia-carnelian/zv6tPZff8RGRAsxUitoTbw",
    "title": "$1295.00 - 1br - Carnelian",
@@ -3861,6 +4235,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:5vepLCm2ArigS2DzYFeoaL",
+   "url": "https://www.craigslist.org/view/d/merion-station-garage-free-live-in/5vepLCm2ArigS2DzYFeoaL",
+   "title": "Garage Free! - Live in charming Narberth Boro!",
+   "price": 1575,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Narberth",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:3bt1UEMZ1yzTE1JwsX7NeE",
@@ -4385,6 +4782,54 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:eMtijgeDodGA3vo3qtQ6Ud",
+   "url": "https://www.craigslist.org/view/d/havertown-fall-special-large-bright-1br/eMtijgeDodGA3vo3qtQ6Ud",
+   "title": "FALL SPECIAL! LARGE, BRIGHT 1BR APT W/BALCONY - TERRIFIC LOCATION",
+   "price": 1395,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "HAVERTOWN, HAVERFORD",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
+   "id": "cl:wZeUJ7XbF4DU2eVjLdhbaL",
+   "url": "https://www.craigslist.org/view/d/havertown-fall-special-large-bright-1br/wZeUJ7XbF4DU2eVjLdhbaL",
+   "title": "FALL SPECIAL! LARGE, BRIGHT 1BR APT W/BALCONY - TERRIFIC LOCATION",
+   "price": 1395,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "HAVERTOWN, HAVERFORD",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
    "id": "cl:rtDxcKF2ZdsQYKxLGgRQTU",
    "url": "https://www.craigslist.org/view/d/wynnewood-studio-apartment-ardmore/rtDxcKF2ZdsQYKxLGgRQTU",
    "title": "Studio Apartment ARDMORE GREAT LOCATION",
@@ -4839,6 +5284,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:axszZMGKhAcNS4VntGWq5f",
+   "url": "https://www.craigslist.org/view/d/phoenixville-bedroom-bathroom-plus/axszZMGKhAcNS4VntGWq5f",
+   "title": "2 Bedroom 2 Bathroom plus Office/Den/3rd Bedroom in Phoenixville",
+   "price": 1950,
+   "bedrooms": 2,
+   "sqft": 1200,
+   "location": "Phoneixville",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
    "id": "cl:7JXG2w9uobqsdUwrXHwjju",
