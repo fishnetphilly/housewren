@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-20T12:22:37-05:00",
+ "generated_at": "2026-11-20T18:00:13-05:00",
  "last_check": {
-  "finished_at": "2026-11-20T12:22:36-05:00",
+  "finished_at": "2026-11-20T18:00:13-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 18
+  "new": 8
  },
  "nests": [
   {
@@ -1473,6 +1473,29 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:phCye93pdj5SXCbBstZfnH",
+   "url": "https://www.craigslist.org/view/d/philadelphia-grand-light-filled-br-35/phCye93pdj5SXCbBstZfnH",
+   "title": "Grand, light-filled 4 BR, 3.5 Bath contemporary home in Northern Libs",
+   "price": 4500,
+   "bedrooms": 4,
+   "sqft": null,
+   "location": "Northern Liberties",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
    "id": "cl:hNNDuPd6YBRtm3PpJEs7AX",
    "url": "https://www.craigslist.org/view/d/philadelphia-rooms-for-rent/hNNDuPd6YBRtm3PpJEs7AX",
    "title": "Rooms for rent.",
@@ -2455,6 +2478,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:qKDkAPFPNZijLvZf8mkeAR",
+   "url": "https://www.craigslist.org/view/d/philadelphia-124-5th-ave/qKDkAPFPNZijLvZf8mkeAR",
+   "title": "124 W 5th Ave,",
+   "price": 878,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
   },
   {
    "id": "cl:b5MhNEg4ZC6C6R8SiiBgCK",
@@ -3987,6 +4034,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:wd5F3tj6iFQS63ByHGbRgL",
+   "url": "https://www.craigslist.org/view/d/buckingham-for-rent-quiet-country/wd5F3tj6iFQS63ByHGbRgL",
+   "title": "FOR RENT: Quiet Country Living Steps From Peddlers Village!",
+   "price": 1400,
+   "bedrooms": 1,
+   "sqft": 600,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
    "id": "cl:8jGTNNfJNBWM3PZWQpf5Bb",
    "url": "https://www.craigslist.org/view/d/blooming-glen-here-is-perfect-and/8jGTNNfJNBWM3PZWQpf5Bb",
    "title": "HERE IS A PERFECT AND COMFORTABLE PLACE FOR YOU",
@@ -4587,6 +4658,54 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:6Nvriq1XUv3HWKSpdVgAQi",
+   "url": "https://www.craigslist.org/view/d/north-wales-nestled-in-comfort-your/6Nvriq1XUv3HWKSpdVgAQi",
+   "title": "Nestled in Comfort: Your Search Ends Here!",
+   "price": 2433,
+   "bedrooms": 2,
+   "sqft": 1048,
+   "location": "North Wales - Oxford Park",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
+   "id": "cl:dHJi8bYsVz5TSpXtALk3hg",
+   "url": "https://www.craigslist.org/view/d/north-wales-privacy-and-ventilation/dHJi8bYsVz5TSpXtALk3hg",
+   "title": "Privacy and ventilation! Window coverings in every apartment",
+   "price": 2433,
+   "bedrooms": 2,
+   "sqft": 1048,
+   "location": "North Wales - Oxford Park",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
    "id": "cl:viw7j18SUqDp4hQzBK7omr",
    "url": "https://www.craigslist.org/view/d/north-wales-youll-love-our-amazing/viw7j18SUqDp4hQzBK7omr",
    "title": "You'll love our amazing community! Highly desirable neighborhood!",
@@ -4633,6 +4752,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:7qxFzbeSJMbKeDZYjeN1or",
+   "url": "https://www.craigslist.org/view/d/norristown-bedroom-bath-luxury/7qxFzbeSJMbKeDZYjeN1or",
+   "title": "2 Bedroom 2 Bath Luxury Apartments The Kenrick",
+   "price": 2637,
+   "bedrooms": 2,
+   "sqft": 1026,
+   "location": "East Norriton",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
   },
   {
    "id": "cl:uaLkjZ6w7W4perXHCQVDHw",
@@ -5490,6 +5633,30 @@
    "first_seen": "2026-11-07T19:26:00-05:00"
   },
   {
+   "id": "cl:myBN3AsY2R7TdTAK8P8gB7",
+   "url": "https://www.craigslist.org/view/d/fort-washington-very-private-location/myBN3AsY2R7TdTAK8P8gB7",
+   "title": "Very Private Location Two Bedroom Unit With External Storage, Neshaminy School D",
+   "price": 950,
+   "bedrooms": 2,
+   "sqft": 756,
+   "location": "Fort Washington",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
    "id": "cl:17peHFLJVErxfYwCgwuDey",
    "url": "https://www.craigslist.org/view/d/lansdale-townhouse-share/17peHFLJVErxfYwCgwuDey",
    "title": "Townhouse share!!",
@@ -6232,6 +6399,30 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
+   "id": "cl:eRerM2eYeTiTsnH5zH2dxG",
+   "url": "https://www.craigslist.org/view/d/merion-station-beautifully-renovated/eRerM2eYeTiTsnH5zH2dxG",
+   "title": "Beautifully Renovated Apartment Home! Call today!",
+   "price": 1895,
+   "bedrooms": 2,
+   "sqft": 720,
+   "location": "Bala Cynwyd, Narberth, Wynnewood",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T18:00:13-05:00"
   },
   {
    "id": "cl:rfLTsE6pHHZk8FgNhsGQcP",
