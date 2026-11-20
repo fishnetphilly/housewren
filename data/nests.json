@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-19T19:36:40-05:00",
+ "generated_at": "2026-11-20T12:22:37-05:00",
  "last_check": {
-  "finished_at": "2026-11-19T19:36:39-05:00",
+  "finished_at": "2026-11-20T12:22:36-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 26
+  "new": 18
  },
  "nests": [
   {
@@ -229,6 +229,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-16T18:00:13-05:00"
+  },
+  {
+   "id": "cl:9SKF3dFoRdNc25XKsdJD79",
+   "url": "https://www.craigslist.org/view/d/philadelphia-university-room-for-rent/9SKF3dFoRdNc25XKsdJD79",
+   "title": "University room for rent",
+   "price": 750,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "West Philadelphia",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:g9ToNMfoHV1KDqSBvKZq7z",
@@ -1930,6 +1953,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:4Lh4eQVc8d1qBKKuiWgivx",
+   "url": "https://www.craigslist.org/view/d/philadelphia-rooms-for-rent/4Lh4eQVc8d1qBKKuiWgivx",
+   "title": "Rooms for rent",
+   "price": 650,
+   "bedrooms": 6,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:bpPhciAUC3dGQGdxwqFeAs",
    "url": "https://www.craigslist.org/view/d/philadelphia-this-unique-space-rarely/bpPhciAUC3dGQGdxwqFeAs",
    "title": "This unique space rarely is available for rent given its location",
@@ -2456,6 +2503,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:ksV6J1uHntHYvVS4wSssNe",
+   "url": "https://www.craigslist.org/view/d/philadelphia-recently-refurbished/ksV6J1uHntHYvVS4wSssNe",
+   "title": "Recently refurbished 3-bedroom, 1-bath home",
+   "price": 900,
+   "bedrooms": 3,
+   "sqft": 1050,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:1h4f7PkoPmr5XyrXm5y4Nq",
@@ -3556,6 +3627,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:vy74sUriFFYZNvh2p6nKuW",
+   "url": "https://www.craigslist.org/view/d/chester-everything-new/vy74sUriFFYZNvh2p6nKuW",
+   "title": "EVERYTHING NEW!",
+   "price": 1100,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:pFh1DMckzTmRr5Z2iwCjhd",
    "url": "https://www.craigslist.org/view/d/philadelphia-great-bedroom-available/pFh1DMckzTmRr5Z2iwCjhd",
    "title": "Great 1 bedroom available now at 2254 Bryn Mawr ave!",
@@ -3844,6 +3939,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:cQ9Kg4GLMhLRmKaEYRbZKw",
+   "url": "https://www.craigslist.org/view/d/brookhaven-1st-floor-end-unit-offering/cQ9Kg4GLMhLRmKaEYRbZKw",
+   "title": "1st Floor end unit offering a wider living room.",
+   "price": 1400,
+   "bedrooms": 1,
+   "sqft": 625,
+   "location": "Brookhaven, PA",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:es2czBa6B2nz4ZNNGEj6Ci",
    "url": "https://www.craigslist.org/view/d/parker-ford-second-floor-charming/es2czBa6B2nz4ZNNGEj6Ci",
    "title": "Second Floor - Charming 1 bedroom",
@@ -4058,6 +4177,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:s525734arR9CWQwycAYb4y",
+   "url": "https://www.craigslist.org/view/d/trenton-for-rent-walk-to-main-street/s525734arR9CWQwycAYb4y",
+   "title": "FOR RENT: Walk to Main Street, Come Home to Comfort in Yardley",
+   "price": 1700,
+   "bedrooms": 1,
+   "sqft": 1126,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:twKBnsEvkKw7Wx68fWmNkN",
@@ -4852,6 +4995,29 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:n3AUSCsWB5No1ZbuSyv3kT",
+   "url": "https://www.craigslist.org/view/d/bristol-natural-gas-heat-and-hot-water/n3AUSCsWB5No1ZbuSyv3kT",
+   "title": "@@Natural gas heat and hot water help keep utility costs manageable",
+   "price": 1305,
+   "bedrooms": 2,
+   "sqft": 1100,
+   "location": "Bristol, PA",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:ideHbkM6iasyki9djmcNnR",
    "url": "https://www.craigslist.org/view/d/wynnewood-updated-studio-apartment-in/ideHbkM6iasyki9djmcNnR",
    "title": "Updated Studio Apartment in Ardmore - Central Air, Parking & Patio",
@@ -5106,6 +5272,30 @@
    "odd_price": true,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:87dYaBgqiSQ4tnThki28gn",
+   "url": "https://www.craigslist.org/view/d/bensalem-yoga-included-in-rent/87dYaBgqiSQ4tnThki28gn",
+   "title": "Yoga included in rent!",
+   "price": 200,
+   "bedrooms": 5,
+   "sqft": null,
+   "location": "Bensalem",
+   "type": "room",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:gP8a9vzecDJWhY9XCPUJpB",
@@ -5396,6 +5586,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:tC3zrJef1xYzbmPfXX1zdg",
+   "url": "https://www.craigslist.org/view/d/bristol-bedroom-available-now-move-in/tC3zrJef1xYzbmPfXX1zdg",
+   "title": "1 BEDROOM AVAILABLE NOW! **MOVE IN SPECIAL**",
+   "price": 1295,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "BRISTOL",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:axu1NyQsy4G7hRC1wMtGMw",
    "url": "https://www.craigslist.org/view/d/havertown-amazing-opportunity-to-own-1/axu1NyQsy4G7hRC1wMtGMw",
    "title": "Amazing opportunity to own a 1 story, beautifully updated Ranch .",
@@ -5418,6 +5632,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:e7VHSCTz3fdiGyCSuwT2uM",
+   "url": "https://www.craigslist.org/view/d/west-chester-this-well-maintained-one/e7VHSCTz3fdiGyCSuwT2uM",
+   "title": "This well-maintained one bedroom one bathroom is ready for you.",
+   "price": 1300,
+   "bedrooms": 1,
+   "sqft": 1034,
+   "location": "West Chester, PA",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:maezdhotSJbxo72PH2Jcuw",
@@ -5444,6 +5682,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:aC5X3zRFC33Rat6pWvYztw",
+   "url": "https://www.craigslist.org/view/d/bristol-br-available-immediately-gas/aC5X3zRFC33Rat6pWvYztw",
+   "title": "1 BR available immediately, Gas and water included ** MOVE IN SPECIAL",
+   "price": 1320,
+   "bedrooms": 1,
+   "sqft": 680,
+   "location": "BRISTOL",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:iqQRpMfKN6YJbxuZCdtUW6",
    "url": "https://www.craigslist.org/view/d/bristol-bedroom-free-gas-water-free-rent/iqQRpMfKN6YJbxuZCdtUW6",
    "title": "1 BEDROOM, FREE GAS & WATER ** FREE RENT**",
@@ -5466,6 +5728,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:56-05:00"
+  },
+  {
+   "id": "cl:oz9xiFUmVwJAPVfxNuAWaY",
+   "url": "https://www.craigslist.org/view/d/norristown-enjoy-maintenance-free-living/oz9xiFUmVwJAPVfxNuAWaY",
+   "title": "Enjoy maintenance-free living.",
+   "price": 1350,
+   "bedrooms": 1,
+   "sqft": 832,
+   "location": "Norristown, PA",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:eMtijgeDodGA3vo3qtQ6Ud",
@@ -5612,6 +5898,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:3kRpSnUCGvAiNWmkz472m1",
+   "url": "https://www.craigslist.org/view/d/conshohocken-welcome-home-to-this-move/3kRpSnUCGvAiNWmkz472m1",
+   "title": "Welcome home to this move-in-ready 1 Bedroom with Den condominium",
+   "price": 1500,
+   "bedrooms": 1,
+   "sqft": 825,
+   "location": "Conshohocken, PA",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:awq4wU1DfGzzvW3VcP7wmw",
    "url": "https://www.craigslist.org/view/d/phoenixville-walk-into-the-main-room/awq4wU1DfGzzvW3VcP7wmw",
    "title": "WALK INTO THE MAIN ROOM WHICH HAS A LARGE OPEN KITCHEN WITH PLENTY OF",
@@ -5732,6 +6042,54 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:mhwsGz95eA6mxkLbeRXqqz",
+   "url": "https://www.craigslist.org/view/d/bristol-bedroom-available-immediately/mhwsGz95eA6mxkLbeRXqqz",
+   "title": "2 bedroom available immediately, Gas and water included **RENT SPECIAL",
+   "price": 1620,
+   "bedrooms": 2,
+   "sqft": 840,
+   "location": "BRISTOL",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
+   "id": "cl:qR9RwaZaohNgn94cqpA6y7",
+   "url": "https://www.craigslist.org/view/d/bristol-bedroom-available-immediately/qR9RwaZaohNgn94cqpA6y7",
+   "title": "2 bedroom available immediately, Gas and water included **RENT SPECIAL",
+   "price": 1620,
+   "bedrooms": 2,
+   "sqft": 840,
+   "location": "BRISTOL",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
    "id": "cl:e4y6W5gFNnahzHM6wGbyYj",
    "url": "https://www.craigslist.org/view/d/ambler-spacious-bedroom-ambler/e4y6W5gFNnahzHM6wGbyYj",
    "title": "Spacious 1 bedroom AMBLER",
@@ -5826,6 +6184,54 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-19T19:36:39-05:00"
+  },
+  {
+   "id": "cl:55NVAvHQWvtrwsqyfTEDRJ",
+   "url": "https://www.craigslist.org/view/d/ardmore-one-bedroom-apartment/55NVAvHQWvtrwsqyfTEDRJ",
+   "title": "One bedroom apartment",
+   "price": 1800,
+   "bedrooms": 1,
+   "sqft": 900,
+   "location": "Ardmore",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
+  },
+  {
+   "id": "cl:xq4rzDWTV5m2NuxyouE54K",
+   "url": "https://www.craigslist.org/view/d/ardmore-one-bedroom-apartment/xq4rzDWTV5m2NuxyouE54K",
+   "title": "One bedroom apartment",
+   "price": 1800,
+   "bedrooms": 1,
+   "sqft": 900,
+   "location": "Ardmore",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   },
   {
    "id": "cl:rfLTsE6pHHZk8FgNhsGQcP",
@@ -6642,6 +7048,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:i1CwzThM9vSumF7CcczouU",
+   "url": "https://www.craigslist.org/view/d/lansdale-habitacin-en-alquiler/i1CwzThM9vSumF7CcczouU",
+   "title": "Habitaci\u00f3n en alquiler",
+   "price": null,
+   "bedrooms": 2,
+   "sqft": 50,
+   "location": "Lansdale",
+   "type": "room",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-20T12:22:36-05:00"
   }
  ]
 }
