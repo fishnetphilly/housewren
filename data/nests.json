@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-21T11:54:13-05:00",
+ "generated_at": "2026-11-21T22:24:20-05:00",
  "last_check": {
-  "finished_at": "2026-11-21T11:54:13-05:00",
+  "finished_at": "2026-11-21T22:24:19-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 16
+  "new": 9
  },
  "nests": [
   {
@@ -1103,6 +1103,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:vUpWcWcQyZAt41RAjKcz3d",
+   "url": "https://www.craigslist.org/view/d/philadelphia-fresh-bright-great/vUpWcWcQyZAt41RAjKcz3d",
+   "title": "Fresh & Bright, Great Location on Cul-De -Sac Street, Parking!!!!",
+   "price": 1595,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Manayunk / Roxborough",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:fkxDRdnT93wM8zppcR9XXN",
@@ -2743,6 +2766,30 @@
    "first_seen": "2026-11-19T19:36:39-05:00"
   },
   {
+   "id": "cl:uHXXeb4TYpEAQFFQFjfVth",
+   "url": "https://www.craigslist.org/view/d/philadelphia-salon-managerfree-housing/uHXXeb4TYpEAQFFQFjfVth",
+   "title": "Salon Manager(Free housing)",
+   "price": 1000,
+   "bedrooms": 2,
+   "sqft": 850,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
+  },
+  {
    "id": "cl:ncUCTcWbp2rBT1Ag3B3U9t",
    "url": "https://www.craigslist.org/view/d/philadelphia-spacious-bedroom-bathroom/ncUCTcWbp2rBT1Ag3B3U9t",
    "title": "Spacious 3-Bedroom, 1-Bathroom Home for Rent",
@@ -2861,6 +2908,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:t8XQ7yVX5EJSvNSAva7ZBS",
+   "url": "https://www.craigslist.org/view/d/philadelphia-crafts/t8XQ7yVX5EJSvNSAva7ZBS",
+   "title": "Crafts",
+   "price": 1150,
+   "bedrooms": 1,
+   "sqft": 604,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:2AB27DaGCcbujpzWsT8bME",
@@ -3053,6 +3124,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-19T19:36:39-05:00"
+  },
+  {
+   "id": "cl:7YCNuKorytD35mH4AYK5Nm",
+   "url": "https://www.craigslist.org/view/d/glenolden-it-is-updated-with-recent/7YCNuKorytD35mH4AYK5Nm",
+   "title": "It is updated with a recent renovation including CENTRAL AIR!;",
+   "price": 825,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Glenolden, PA",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:f1YwA9nk29fJmBSwnxFQGH",
@@ -3311,6 +3405,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-19T19:36:39-05:00"
+  },
+  {
+   "id": "cl:dUk3aaKKqoX1XE8B7ooPhj",
+   "url": "https://www.craigslist.org/view/d/bala-cynwyd-bedroom-apartment-for-rent/dUk3aaKKqoX1XE8B7ooPhj",
+   "title": "1 BEDROOM APARTMENT FOR RENT",
+   "price": 900,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:oNNv1nAQM7711QkchCGTFS",
@@ -5281,6 +5399,30 @@
    "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
+   "id": "cl:wPCT3SsNnMLDUKeBRWVPf1",
+   "url": "https://www.craigslist.org/view/d/croydon-roommate-wanted/wPCT3SsNnMLDUKeBRWVPf1",
+   "title": "Roommate wanted",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "room",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
+  },
+  {
    "id": "cl:zkudk5Dl8RGFt",
    "url": "https://www.craigslist.org/view/d/philadelphia-safe-space-tailored/zkudk5Dl8RGFt",
    "title": "$770.00 - 1br - Safe Space: Tailored Housing for professionals on the move",
@@ -5557,6 +5699,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-21T11:54:13-05:00"
+  },
+  {
+   "id": "cl:gegDzKNhZn9ynEUNREnLBh",
+   "url": "https://www.craigslist.org/view/d/coatesville-come-home-to-millview/gegDzKNhZn9ynEUNREnLBh",
+   "title": "Come home to Millview Apartments! Washer/dryer in unit. Tour today!",
+   "price": 1996,
+   "bedrooms": 2,
+   "sqft": 1178,
+   "location": "Coatesville",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:tqKibYaLmueYMDAMyrs9wv",
@@ -7573,6 +7738,54 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-21T11:54:13-05:00"
+  },
+  {
+   "id": "cl:911S38qm19M3DSH8pf4HKy",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-spacious-living-with/911S38qm19M3DSH8pf4HKy",
+   "title": "Spacious living with beautiful views of the Philly Skyline",
+   "price": 4091,
+   "bedrooms": 2,
+   "sqft": 1340,
+   "location": "Cherry Hill",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-21T22:24:19-05:00"
+  },
+  {
+   "id": "cl:h2hdrjLRwtJ1wXqffpKCj5",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-spacious-living-with/h2hdrjLRwtJ1wXqffpKCj5",
+   "title": "Spacious living with beautiful views of the Philly Skyline",
+   "price": 4091,
+   "bedrooms": 2,
+   "sqft": 1340,
+   "location": "Cherry Hill",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-21T22:24:19-05:00"
   },
   {
    "id": "cl:dTWR8HLYSgu1D2MZ1udscF",
