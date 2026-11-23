@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-22T18:00:13-05:00",
+ "generated_at": "2026-11-23T08:00:15-05:00",
  "last_check": {
-  "finished_at": "2026-11-22T18:00:12-05:00",
+  "finished_at": "2026-11-23T08:00:14-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 0
+  "new": 4
  },
  "nests": [
   {
@@ -2258,6 +2258,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:cJRw5W5vuXdcrnSSfeATpm",
+   "url": "https://www.craigslist.org/view/d/philadelphia-bed-bath-fresh-and/cJRw5W5vuXdcrnSSfeATpm",
+   "title": "\u00e2 \u00a4\u00ef\u00b8 1 Bed \u00e2 \u00a2 1 Bath \u00e2 \u00a2 Fresh and Comfortable",
+   "price": 700,
+   "bedrooms": 1,
+   "sqft": 744,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-23T08:00:14-05:00"
+  },
+  {
    "id": "cl:nXVwJjqbLXLnvNHmC7PZuu",
    "url": "https://www.craigslist.org/view/d/philadelphia-welcome-to-306-south-camac/nXVwJjqbLXLnvNHmC7PZuu",
    "title": "Welcome to 306 South Camac St-2bed /2bath home",
@@ -2496,6 +2520,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-16T08:00:14-05:00"
+  },
+  {
+   "id": "cl:3hD2QkGhf63ytrYDA32v4T",
+   "url": "https://www.craigslist.org/view/d/philadelphia-welcoming-apartment-for/3hD2QkGhf63ytrYDA32v4T",
+   "title": "\u00f0 \u00f0 A Welcoming Apartment for Your New Beginning",
+   "price": 800,
+   "bedrooms": 1,
+   "sqft": 799,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-23T08:00:14-05:00"
   },
   {
    "id": "cl:8EdJ5XYEnrVJ7d5cChJeZE",
@@ -3311,6 +3359,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-21T22:24:19-05:00"
+  },
+  {
+   "id": "cl:o6kNeNJBok34XqCTWUrdz6",
+   "url": "https://www.craigslist.org/view/d/philadelphia-3br-2ba-house-garage/o6kNeNJBok34XqCTWUrdz6",
+   "title": "3BR/2BA House w/ Garage StorageEntertaining-Ready Backyard",
+   "price": 1800,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-23T08:00:14-05:00"
   },
   {
    "id": "cl:f1YwA9nk29fJmBSwnxFQGH",
@@ -6395,7 +6466,7 @@
    "url": "https://www.craigslist.org/view/d/lansdowne-one-bedroom-for-single-person/5xf5jZgAVLEsULAgYvoWvK",
    "title": "One Bedroom for single person",
    "price": 1000,
-   "bedrooms": null,
+   "bedrooms": 1,
    "sqft": 700,
    "location": "Lansdowne",
    "type": "room",
@@ -6485,6 +6556,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-22T17:50:29-05:00"
+  },
+  {
+   "id": "cl:uXLi6nW2dQxBXvtFf9G5xs",
+   "url": "https://www.craigslist.org/view/d/ambler-large-beautiful-bedroom/uXLi6nW2dQxBXvtFf9G5xs",
+   "title": "Large beautiful bedroom",
+   "price": 1100,
+   "bedrooms": 2,
+   "sqft": 3000,
+   "location": "Fort Washington",
+   "type": "room",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-23T08:00:14-05:00"
   },
   {
    "id": "cl:tC3zrJef1xYzbmPfXX1zdg",
