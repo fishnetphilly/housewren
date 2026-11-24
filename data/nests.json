@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-23T18:00:14-05:00",
+ "generated_at": "2026-11-24T08:00:17-05:00",
  "last_check": {
-  "finished_at": "2026-11-23T18:00:13-05:00",
+  "finished_at": "2026-11-24T08:00:16-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 14
+  "new": 10
  },
  "nests": [
   {
@@ -804,6 +804,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:5nZh6UbQTBeitSLs2JgHFs",
+   "url": "https://www.craigslist.org/view/d/philadelphia-beautifully-renovated/5nZh6UbQTBeitSLs2JgHFs",
+   "title": "\u00e2 \u00ef\u00b8 Beautifully Renovated 1-Bedroom in Northern Liberties!",
+   "price": 1399,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Northern Liberties",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T08:00:16-05:00"
   },
   {
    "id": "cl:9MpDzR8Ptev5Q5vjqvQFkU",
@@ -4382,6 +4405,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:byNDto147M6ss6cpnXXPuP",
+   "url": "https://www.craigslist.org/view/d/philadelphia-3bd-15-ba-1476-sq-ft/byNDto147M6ss6cpnXXPuP",
+   "title": "3bd/1.5 ba 1,476 sq ft",
+   "price": 1200,
+   "bedrooms": 3,
+   "sqft": 1476,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:eVvusibWeYyupN8tTtVKxG",
    "url": "https://www.craigslist.org/view/d/sellersville-2br-1bth-second-floor/eVvusibWeYyupN8tTtVKxG",
    "title": "2br 1bth second floor duplex apartment",
@@ -5174,6 +5221,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:wMwbWuCrKoe7tMUS83M76W",
+   "url": "https://www.craigslist.org/view/d/thorndale-huge-kitchen-ground-floor-bed/wMwbWuCrKoe7tMUS83M76W",
+   "title": "HUGE Kitchen - Ground Floor 2 Bed, 2 Bath",
+   "price": 2080,
+   "bedrooms": 2,
+   "sqft": 1070,
+   "location": "Thorndale",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:61szFbPGd442ekoQrhjm9q",
    "url": "https://www.craigslist.org/view/d/thorndale-2nd-floor-bed-bath-with/61szFbPGd442ekoQrhjm9q",
    "title": "2nd Floor 2 Bed, 2 Bath With Balcony and HUGE Kitchen!!!",
@@ -5342,6 +5413,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:umqok96pqBKGDusYf3FmRY",
+   "url": "https://www.craigslist.org/view/d/thorndale-wow-cheapest-bed-25-bath/umqok96pqBKGDusYf3FmRY",
+   "title": "WOW!!!! Cheapest 2 Bed, 2.5 Bath Townhome!!!!",
+   "price": 2375,
+   "bedrooms": 2,
+   "sqft": 1400,
+   "location": "Thorndale",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:fcdcoDopyo7v9AAGhgEHwY",
    "url": "https://www.craigslist.org/view/d/bala-cynwyd-open-floor-plan-apartment/fcdcoDopyo7v9AAGhgEHwY",
    "title": "Open floor-plan apartment available now",
@@ -5462,6 +5557,30 @@
    "first_seen": "2026-11-19T19:36:39-05:00"
   },
   {
+   "id": "cl:bfaJ6jYZRLaPwFvr9iDmnS",
+   "url": "https://www.craigslist.org/view/d/thorndale-end-unit-bed-25-bath-townhome/bfaJ6jYZRLaPwFvr9iDmnS",
+   "title": "End Unit 3 bed, 2.5 bath Townhome With Wood Burning Fireplace",
+   "price": 2500,
+   "bedrooms": 3,
+   "sqft": 1500,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:nopddTC6s7uQGZTXyBUGJK",
    "url": "https://www.craigslist.org/view/d/thorndale-end-unit-bed-25-bath-townhome/nopddTC6s7uQGZTXyBUGJK",
    "title": "End Unit 3 bed, 2.5 bath Townhome With Wood Burning Fireplace",
@@ -5508,6 +5627,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
+   "id": "cl:kTJJ64ySuazRbQNURq6jv9",
+   "url": "https://www.craigslist.org/view/d/thorndale-end-unit-bed-25-bath-finished/kTJJ64ySuazRbQNURq6jv9",
+   "title": "END UNIT 2 Bed, 2.5 Bath W/FINISHED WALKOUT BASEMENT!!",
+   "price": 2645,
+   "bedrooms": 2,
+   "sqft": 1800,
+   "location": "Thorndale",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-24T08:00:16-05:00"
   },
   {
    "id": "cl:uaLkjZ6w7W4perXHCQVDHw",
@@ -5986,6 +6129,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:5Ljt8DxH6koqhrQLPtKKzb",
+   "url": "https://www.craigslist.org/view/d/merion-station-garage-free-live-in/5Ljt8DxH6koqhrQLPtKKzb",
+   "title": "Garage Free! - Live in charming Narberth Boro!",
+   "price": 1575,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Narberth",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-24T08:00:16-05:00"
   },
   {
    "id": "cl:5vepLCm2ArigS2DzYFeoaL",
@@ -7706,6 +7872,30 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:1a1RUJFFiVuqYUvgYjNTer",
+   "url": "https://www.craigslist.org/view/d/west-chester-beautiful-842-sq-foot-bed/1a1RUJFFiVuqYUvgYjNTer",
+   "title": "Beautiful 842 Sq Foot 1 bed / 1 bath in peaceful quiet neighborhood",
+   "price": 1931,
+   "bedrooms": 1,
+   "sqft": 842,
+   "location": "West Chester - West Chester",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:1iiHix9LT3QD2qK9fuWPdP",
    "url": "https://www.craigslist.org/view/d/west-chester-cant-beat-this-spot-bed/1iiHix9LT3QD2qK9fuWPdP",
    "title": "Can't beat this spot! 1 bed, 1 bath in West Chester's heart.",
@@ -7802,6 +7992,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:c6w8rFuZaJkMzc65AzcXUs",
+   "url": "https://www.craigslist.org/view/d/west-chester-discover-hidden-treasure/c6w8rFuZaJkMzc65AzcXUs",
+   "title": "Discover a hidden treasure in West Chester! Peaceful 1 bed, 1 bath",
+   "price": 1931,
+   "bedrooms": 1,
+   "sqft": 842,
+   "location": "West Chester - 1515 Manley Rd",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T08:00:16-05:00"
+  },
+  {
    "id": "cl:cWyoMMda2VAiGiUj3yxuc4",
    "url": "https://www.craigslist.org/view/d/west-chester-youve-never-seen-anything/cWyoMMda2VAiGiUj3yxuc4",
    "title": "You've never seen anything like these deals! Call now!",
@@ -7824,6 +8038,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:daA7tweDRAYbhyAmWLotCv",
+   "url": "https://www.craigslist.org/view/d/west-chester-discover-hidden-treasure/daA7tweDRAYbhyAmWLotCv",
+   "title": "Discover a hidden treasure in West Chester! Peaceful 1 bed, 1 bath",
+   "price": 1931,
+   "bedrooms": 1,
+   "sqft": 842,
+   "location": "West Chester - The Gateway Apartments",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T08:00:16-05:00"
   },
   {
    "id": "cl:kdKVB3zvTBTooiLaiiBouU",
