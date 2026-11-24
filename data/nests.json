@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-24T08:00:17-05:00",
+ "generated_at": "2026-11-24T18:00:13-05:00",
  "last_check": {
-  "finished_at": "2026-11-24T08:00:16-05:00",
+  "finished_at": "2026-11-24T18:00:13-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 10
+  "new": 7
  },
  "nests": [
   {
@@ -2255,6 +2255,30 @@
    "first_seen": "2026-11-07T19:26:00-05:00"
   },
   {
+   "id": "cl:khNF9VfafhpBnAD5f7vF1R",
+   "url": "https://www.craigslist.org/view/d/philadelphia-studio-apartment-close-to/khNF9VfafhpBnAD5f7vF1R",
+   "title": "Studio apartment Close to Jefferson Methodist Hospital & School",
+   "price": 680,
+   "bedrooms": null,
+   "sqft": null,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
+  },
+  {
    "id": "cl:5oj3Uyi6J88hphX7XinG3u",
    "url": "https://www.craigslist.org/view/d/philadelphia-spacious-marina-bedroom/5oj3Uyi6J88hphX7XinG3u",
    "title": "Spacious Marina 2 Bedroom Apartment Across from Moscone Park",
@@ -2759,6 +2783,30 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:fYxEgj6hG2EuhobPDv1iPn",
+   "url": "https://www.craigslist.org/view/d/philadelphia-female-room-for-rent-near/fYxEgj6hG2EuhobPDv1iPn",
+   "title": "*Female Room for Rent Near UPenn & Drexel*",
+   "price": 850,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "room",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
+  },
+  {
    "id": "cl:qKDkAPFPNZijLvZf8mkeAR",
    "url": "https://www.craigslist.org/view/d/philadelphia-124-5th-ave/qKDkAPFPNZijLvZf8mkeAR",
    "title": "124 W 5th Ave,",
@@ -2781,6 +2829,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
+   "id": "cl:7Qi5snPySGibVieiQD3n5P",
+   "url": "https://www.craigslist.org/view/d/philadelphia-first-floor-bed-bath-condo/7Qi5snPySGibVieiQD3n5P",
+   "title": "First-floor 2 bed, 1 bath condo | Nazareth Hospital",
+   "price": 880,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
   },
   {
    "id": "cl:b5MhNEg4ZC6C6R8SiiBgCK",
@@ -3637,6 +3709,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:4kKc8DHDumBWTikHMv6NKp",
+   "url": "https://www.craigslist.org/view/d/dublin-looking-for-an-older-female/4kKc8DHDumBWTikHMv6NKp",
+   "title": "looking for an older female roommate",
+   "price": 100,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "central bucks",
+   "type": "room",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": true,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
+  },
+  {
    "id": "cl:bzxgDoyME3bhPQVVdfzJiG",
    "url": "https://www.craigslist.org/view/d/dublin-looking-for-mid-aged-female/bzxgDoyME3bhPQVVdfzJiG",
    "title": "looking for a mid aged female",
@@ -3709,6 +3805,30 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:pvs5pwRzL2jNmrFRXFuif4",
+   "url": "https://www.craigslist.org/view/d/collegeville-collegeville-rooms-for-rent/pvs5pwRzL2jNmrFRXFuif4",
+   "title": "Collegeville rooms for rent",
+   "price": 800,
+   "bedrooms": 4,
+   "sqft": null,
+   "location": null,
+   "type": "room",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
+  },
+  {
    "id": "cl:mZ357FYLVEvzDhdgnWpfai",
    "url": "https://www.craigslist.org/view/d/media-single-family-home/mZ357FYLVEvzDhdgnWpfai",
    "title": "Single Family Home",
@@ -3731,6 +3851,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:vScfcBkqoq6gpsEbWguiQ7",
+   "url": "https://www.craigslist.org/view/d/philadelphia-large-room-in-victorian/vScfcBkqoq6gpsEbWguiQ7",
+   "title": "Large room in Victorian house - utilities included",
+   "price": 875,
+   "bedrooms": 1,
+   "sqft": 300,
+   "location": "City Line Ave. and Lancaster Ave. Area",
+   "type": "room",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
   },
   {
    "id": "cl:cbuAre9SXc87xCmPWZseSU",
@@ -6430,6 +6574,30 @@
    "odd_price": true,
    "duplicate": false,
    "first_seen": "2026-11-18T20:46:27-05:00"
+  },
+  {
+   "id": "cl:hyLtf94C7PbCidiksLPSey",
+   "url": "https://www.craigslist.org/view/d/dublin-looking-for-female-rooomate/hyLtf94C7PbCidiksLPSey",
+   "title": "looking for a female rooomate",
+   "price": 100,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "doylestown area",
+   "type": "room",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": true,
+   "duplicate": false,
+   "first_seen": "2026-11-24T18:00:13-05:00"
   },
   {
    "id": "cl:k5seRriV3Us3kZdyKzK6dS",
