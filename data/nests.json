@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T18:00:14-05:00",
+ "generated_at": "2026-11-26T08:00:15-05:00",
  "last_check": {
-  "finished_at": "2026-11-25T18:00:13-05:00",
+  "finished_at": "2026-11-26T08:00:15-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 16
+  "new": 14
  },
  "nests": [
   {
@@ -460,6 +460,29 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:nftd6DJ6VZ6D8bEseG7nfu",
+   "url": "https://www.craigslist.org/view/d/philadelphia-charming-bedroom-bathroom/nftd6DJ6VZ6D8bEseG7nfu",
+   "title": "Charming 2-bedroom, 1-bathroom home",
+   "price": 880,
+   "bedrooms": 2,
+   "sqft": 1014,
+   "location": "Fishtown",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:q8xxTbhJcoogxezBxBBVew",
    "url": "https://www.craigslist.org/view/d/philadelphia-charming-bedroom-bathroom/q8xxTbhJcoogxezBxBBVew",
    "title": "Charming 2-bedroom, 1-bathroom home",
@@ -619,6 +642,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:kEUoDM2vbwY2njP2sZ9smx",
+   "url": "https://www.craigslist.org/view/d/philadelphia-roxborough-studio-for-rent/kEUoDM2vbwY2njP2sZ9smx",
+   "title": "Roxborough Studio for Rent",
+   "price": 1095,
+   "bedrooms": null,
+   "sqft": 450,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
   },
   {
    "id": "cl:s8EEmYf3Zudt9ADoYfX7zx",
@@ -895,6 +941,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:9UTkymz6gdL2RsohFEsEqq",
+   "url": "https://www.craigslist.org/view/d/philadelphia-large-bedroom-garden-style/9UTkymz6gdL2RsohFEsEqq",
+   "title": "Large 2 Bedroom Garden Style Apartments",
+   "price": 1300,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Mt. Airy / Chestnut Hill",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
   },
   {
    "id": "cl:5nZh6UbQTBeitSLs2JgHFs",
@@ -1909,6 +1978,52 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:gXtiY3pTv6jrYmne5BzJ9q",
+   "url": "https://www.craigslist.org/view/d/philadelphia-roxborough-bi-level-bed-25/gXtiY3pTv6jrYmne5BzJ9q",
+   "title": "Roxborough Bi-Level 3 Bed 2.5 Bath Apartment Available for Rent!",
+   "price": 2800,
+   "bedrooms": 3,
+   "sqft": 2500,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
+   "id": "cl:wKXPrEBfPeZEdmFMFMd7jr",
+   "url": "https://www.craigslist.org/view/d/philadelphia-bed-25-bath-bi-level/wKXPrEBfPeZEdmFMFMd7jr",
+   "title": "3 Bed 2.5 Bath - Bi-Level Apartment - Manayunk/Roxborogh",
+   "price": 2800,
+   "bedrooms": 3,
+   "sqft": 2500,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:na3zWDeKPHpVVwgkSzjsyk",
    "url": "https://www.craigslist.org/view/d/philadelphia-br-brand-new-luxury-new/na3zWDeKPHpVVwgkSzjsyk",
    "title": "$3,600 / 5br - BRAND-NEW LUXURY NEW CONSTRUCTION 135 E Springer St, Ph",
@@ -2699,6 +2814,30 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:qs5SHzF7H2yjgNdamEFxH5",
+   "url": "https://www.craigslist.org/view/d/philadelphia-lovely-apartment-with/qs5SHzF7H2yjgNdamEFxH5",
+   "title": "\u00f0 \u00bbLovely Apartment With Spacious And Sunlit Rooms \u00e2 \u00e2 \u00a1",
+   "price": 700,
+   "bedrooms": 1,
+   "sqft": 744,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:t3TtfKYFfPQ2yBRy6YEkE7",
    "url": "https://www.craigslist.org/view/d/philadelphia-fresh-and-airy-apartment/t3TtfKYFfPQ2yBRy6YEkE7",
    "title": "+++Fresh and Airy Apartment Ready for You+++",
@@ -2891,6 +3030,30 @@
    "first_seen": "2026-11-16T08:00:14-05:00"
   },
   {
+   "id": "cl:3KjkJTgUYm7NcD2nT7aimR",
+   "url": "https://www.craigslist.org/view/d/philadelphia-bright-beautiful-apartment/3KjkJTgUYm7NcD2nT7aimR",
+   "title": "\u00e2 \u00a6 \u00e2 \u00a7 Bright & Beautiful Apartment With Natural Light \u00e2 \u00a7 \u00e2 \u00a6",
+   "price": 800,
+   "bedrooms": 1,
+   "sqft": 799,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:3hD2QkGhf63ytrYDA32v4T",
    "url": "https://www.craigslist.org/view/d/philadelphia-welcoming-apartment-for/3hD2QkGhf63ytrYDA32v4T",
    "title": "\u00f0 \u00f0 A Welcoming Apartment for Your New Beginning",
@@ -2987,6 +3150,30 @@
    "first_seen": "2026-11-25T08:00:14-05:00"
   },
   {
+   "id": "cl:f4pFMj71DmH4R2num8TFNT",
+   "url": "https://www.craigslist.org/view/d/philadelphia-fresh-and-inviting/f4pFMj71DmH4R2num8TFNT",
+   "title": "\u00f0 \u00bbFresh And Inviting Apartment With Natural Lighting \u00e2 \u00e2 \u00a7",
+   "price": 800,
+   "bedrooms": 1,
+   "sqft": 799,
+   "location": "Philadelphia, PA",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:om5CFQ1L9B5ms1fFvEDmKg",
    "url": "https://www.craigslist.org/view/d/philadelphia-lovely-apartment-featuring/om5CFQ1L9B5ms1fFvEDmKg",
    "title": "+++Lovely Apartment Featuring Bright Natural Light+++",
@@ -3081,6 +3268,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:2XWjT8qfanZnh3NSsA7v5h",
+   "url": "https://www.craigslist.org/view/d/philadelphia-downtown-guilford-bedroom/2XWjT8qfanZnh3NSsA7v5h",
+   "title": "Downtown Guilford - 1 Bedroom",
+   "price": 850,
+   "bedrooms": 1,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
   },
   {
    "id": "cl:fYxEgj6hG2EuhobPDv1iPn",
@@ -4105,6 +4316,29 @@
    "first_seen": "2026-11-15T21:16:55-05:00"
   },
   {
+   "id": "cl:utWnrYgUFmpRcTKjZuWBBp",
+   "url": "https://www.craigslist.org/view/d/philadelphia-newly-built-3br-townhome/utWnrYgUFmpRcTKjZuWBBp",
+   "title": "Newly Built 3BR Townhome with Garage, Private Balcony",
+   "price": 3300,
+   "bedrooms": 3,
+   "sqft": 2100,
+   "location": "NORTHBANK",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:HCeSC7Df8RGif",
    "url": "https://www.craigslist.org/view/d/phoenixville-bright-2br-1ba-on-bridge/HCeSC7Df8RGif",
    "title": "$2195.00 - 2br - 720ft2 - Bright 2BR/1BA on Bridge St | $100 water sewer wifi trash and 2 parkin",
@@ -5038,6 +5272,54 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-25T08:00:14-05:00"
+  },
+  {
+   "id": "cl:dcJdbuExA4kzSFjG4kD8FM",
+   "url": "https://www.craigslist.org/view/d/philadelphia-bed-15-bath-townhouse-for/dcJdbuExA4kzSFjG4kD8FM",
+   "title": "2 bed 1.5 bath townhouse for rent",
+   "price": 1250,
+   "bedrooms": 2,
+   "sqft": 940,
+   "location": "1833 Tree St",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
+   "id": "cl:jMrhCvSdEotv5dq4iZJ7qm",
+   "url": "https://www.craigslist.org/view/d/philadelphia-residents-of-kennedy-house/jMrhCvSdEotv5dq4iZJ7qm",
+   "title": "Residents of Kennedy House co-op enjoy a robust suite of amenities...",
+   "price": 1284,
+   "bedrooms": 1,
+   "sqft": 678,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
   },
   {
    "id": "cl:eVvusibWeYyupN8tTtVKxG",
@@ -8337,6 +8619,30 @@
    "first_seen": "2026-11-25T18:00:13-05:00"
   },
   {
+   "id": "cl:w7RryuFhynDvvgvWSgtjEP",
+   "url": "https://www.craigslist.org/view/d/edgemont-newly-renovated-bed-bath/w7RryuFhynDvvgvWSgtjEP",
+   "title": "Newly Renovated 1 Bed 1 Bath Apartment in Newtown Square",
+   "price": 1700,
+   "bedrooms": 1,
+   "sqft": 950,
+   "location": "Newtown Square",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-26T08:00:15-05:00"
+  },
+  {
    "id": "cl:e4y6W5gFNnahzHM6wGbyYj",
    "url": "https://www.craigslist.org/view/d/ambler-spacious-bedroom-ambler/e4y6W5gFNnahzHM6wGbyYj",
    "title": "Spacious 1 bedroom AMBLER",
@@ -9175,318 +9481,6 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-25T08:00:14-05:00"
-  },
-  {
-   "id": "cl:37JAbabBFxGXmDsPigKVxK",
-   "url": "https://www.craigslist.org/view/d/bala-cynwyd-spacious-bed-bath-apartment/37JAbabBFxGXmDsPigKVxK",
-   "title": "Spacious 2-Bed, 1-Bath Apartment for Rent in Bala Cynwyd - w/parking",
-   "price": 2050,
-   "bedrooms": 2,
-   "sqft": 800,
-   "location": "Bala Cynwyd",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:2mqM62covJutYWnmmddSqC",
-   "url": "https://www.craigslist.org/view/d/haverford-bedroom-bath-1200-sq-flexible/2mqM62covJutYWnmmddSqC",
-   "title": "2 Bedroom 1 Bath 1200 Sq' Flexible Move in Dates. $2,090/ Month",
-   "price": 2090,
-   "bedrooms": 2,
-   "sqft": 1200,
-   "location": "Haverford",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:1kB5AjB1qq5mdoT38trCtK",
-   "url": "https://www.craigslist.org/view/d/doylestown-spacious-2br-everett-brand/1kB5AjB1qq5mdoT38trCtK",
-   "title": "Spacious 2BR Everett w/ Brand New Kit, Quartz CT, SS Apps, Gym, Pool",
-   "price": 2225,
-   "bedrooms": 2,
-   "sqft": 1015,
-   "location": "Doylestown",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-19T19:36:39-05:00"
-  },
-  {
-   "id": "cl:sGfDGhZhSoAvdctTCDahkL",
-   "url": "https://www.craigslist.org/view/d/doylestown-spacious-2br-everett-brand/sGfDGhZhSoAvdctTCDahkL",
-   "title": "Spacious 2BR Everett w/ Brand New Kit, Quartz CT, SS Apps, Gym, Pool",
-   "price": 2225,
-   "bedrooms": 2,
-   "sqft": 1015,
-   "location": "Doylestown",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": true,
-   "first_seen": "2026-11-23T18:00:13-05:00"
-  },
-  {
-   "id": "cl:rYYB3MAzcyJnUTWNHTVoXx",
-   "url": "https://www.craigslist.org/view/d/bryn-mawr-beautiful-bedroom-bathroom/rYYB3MAzcyJnUTWNHTVoXx",
-   "title": "Beautiful 2-bedroom 2 bathroom unit $2370!!",
-   "price": 2370,
-   "bedrooms": 2,
-   "sqft": null,
-   "location": "Bryn Mawr",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-23T18:00:13-05:00"
-  },
-  {
-   "id": "cl:3k1rDmJTfcUt3ysh3Jzgw3",
-   "url": "https://www.craigslist.org/view/d/lansdale-beautiful-1424-sq-ft-bed-15/3k1rDmJTfcUt3ysh3Jzgw3",
-   "title": "Beautiful 1424 Sq Ft, 2 Bed / 1.5 Bath in Historic Building",
-   "price": 2419,
-   "bedrooms": 2,
-   "sqft": 1424,
-   "location": "Lansdale - Memorial Park",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:iJmsj9DtUfsD23muK1Rqhv",
-   "url": "https://www.craigslist.org/view/d/lansdale-check-out-our-gorgeous-1424-sq/iJmsj9DtUfsD23muK1Rqhv",
-   "title": "Check out our gorgeous 1424 sq ft Lansdale loft. Renting now!",
-   "price": 2419,
-   "bedrooms": 2,
-   "sqft": 1424,
-   "location": "Lansdale - Memorial Park",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:nn8RvwtEGoow5LRnCmxd1F",
-   "url": "https://www.craigslist.org/view/d/lansdale-simply-sensational-1424-sqft/nn8RvwtEGoow5LRnCmxd1F",
-   "title": "Simply sensational 1424 sqft, 2 bed, 1.5 bath! We fit your lifestyle!",
-   "price": 2419,
-   "bedrooms": 2,
-   "sqft": 1424,
-   "location": "Lansdale - Memorial Park",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:tmyQuzLMBWoxbRKwrqtePt",
-   "url": "https://www.craigslist.org/view/d/lansdale-experience-more-than-just/tmyQuzLMBWoxbRKwrqtePt",
-   "title": "Experience More than Just Living \u00e2 Thrive in Your Perfect Space!",
-   "price": 2419,
-   "bedrooms": 2,
-   "sqft": 1424,
-   "location": "Lansdale - Memorial Park",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:56-05:00"
-  },
-  {
-   "id": "cl:eZikPhUSEDUMzSTfWzmvhY",
-   "url": "https://www.craigslist.org/view/d/bensalem-welcome-to-our-pet-friendly/eZikPhUSEDUMzSTfWzmvhY",
-   "title": "Welcome to our Pet friendly Hotel !!!",
-   "price": 2460,
-   "bedrooms": 1,
-   "sqft": null,
-   "location": "bensalem",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:56-05:00"
-  },
-  {
-   "id": "cl:68kddQiJMYA59s5RPUAfGg",
-   "url": "https://www.craigslist.org/view/d/fort-washington-furnished-garden/68kddQiJMYA59s5RPUAfGg",
-   "title": "Furnished garden apartment for rent in Langhorne, PA \u00e2 $2,600/mo, util",
-   "price": 2600,
-   "bedrooms": 2,
-   "sqft": null,
-   "location": "Langhorne, PA",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-25T08:00:14-05:00"
-  },
-  {
-   "id": "cl:pWfnwmXU4njAAZmtoUbE2w",
-   "url": "https://www.craigslist.org/view/d/bridgeport-beautiful-corner-home-in/pWfnwmXU4njAAZmtoUbE2w",
-   "title": "Beautiful Corner Home in King Of Prussia-Finished Walk Out Basemen",
-   "price": 2600,
-   "bedrooms": 3,
-   "sqft": 1600,
-   "location": "King Of Prussia",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:wMFs4uoSww8Zy8vAxjVFvf",
-   "url": "https://www.craigslist.org/view/d/uwchland-where-luxury-meets-innovation/wMFs4uoSww8Zy8vAxjVFvf",
-   "title": "Where Luxury Meets Innovation at Hamilton at Eagleview!",
-   "price": 3030,
-   "bedrooms": 2,
-   "sqft": 1188,
-   "location": "Exton",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-21T11:54:13-05:00"
   }
  ]
 }
