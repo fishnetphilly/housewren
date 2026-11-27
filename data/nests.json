@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26T18:00:12-05:00",
+ "generated_at": "2026-11-27T08:00:15-05:00",
  "last_check": {
-  "finished_at": "2026-11-26T18:00:12-05:00",
+  "finished_at": "2026-11-27T08:00:15-05:00",
   "outcome": "ok",
   "message": "finished",
-  "new": 1
+  "new": 11
  },
  "nests": [
   {
@@ -527,6 +527,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:d3feXy9NKtUGQSsTwGA3QV",
+   "url": "https://www.craigslist.org/view/d/philadelphia-modern-manayunk-apt/d3feXy9NKtUGQSsTwGA3QV",
+   "title": "Modern Manayunk Apt",
+   "price": 900,
+   "bedrooms": 1,
+   "sqft": 759,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:ontpqPjTPqYmn9GtUrhpEP",
@@ -1587,6 +1610,29 @@
    "first_seen": "2026-11-18T08:00:19-05:00"
   },
   {
+   "id": "cl:4jrWVfKBGZsrm6pJX57Q8S",
+   "url": "https://www.craigslist.org/view/d/philadelphia-option-for-month-to-month/4jrWVfKBGZsrm6pJX57Q8S",
+   "title": "****OPTION FOR MONTH TO MONTH **BLOCKS TO CLARK PARK ***",
+   "price": 2000,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "UNIVERSITY CITY / CLARK PARK",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
+  },
+  {
    "id": "cl:aNaGGsPVmYtKMWAxWHu9YH",
    "url": "https://www.craigslist.org/view/d/philadelphia-option-for-month-to-month/aNaGGsPVmYtKMWAxWHu9YH",
    "title": "********OPTION FOR MONTH TO MONTH ** 3 BED APARTMENT",
@@ -1610,6 +1656,29 @@
    "first_seen": "2026-11-17T16:23:59-05:00"
   },
   {
+   "id": "cl:hecSFuHb7N1bKLKAqcFmGu",
+   "url": "https://www.craigslist.org/view/d/philadelphia-charming-apt-in-university/hecSFuHb7N1bKLKAqcFmGu",
+   "title": "***CHARMING APT IN UNIVERSITY CITY **BLOCKS TO CLARK PARK ***",
+   "price": 2000,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "UNIVERSITY CITY / CLARK PARK",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
+  },
+  {
    "id": "cl:qdLkhQwLaWRxz4E8VhyqGh",
    "url": "https://www.craigslist.org/view/d/philadelphia-month-to-month-blocks-to/qdLkhQwLaWRxz4E8VhyqGh",
    "title": "*********MONTH TO MONTH **BLOCKS TO CLARK PARK ***",
@@ -1631,6 +1700,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-15T21:16:55-05:00"
+  },
+  {
+   "id": "cl:wEtKZawWMx6PJ3EauWepSC",
+   "url": "https://www.craigslist.org/view/d/philadelphia-month-to-month-university/wEtKZawWMx6PJ3EauWepSC",
+   "title": "*******MONTH TO MONTH * *UNIVERSITY CITY ***STAINLESS STEEL",
+   "price": 2000,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "CLARK PARK/ CEDAR PARK",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:fYnuiTbymXthWH72gFYfGs",
@@ -1723,6 +1815,29 @@
    "odd_price": false,
    "duplicate": true,
    "first_seen": "2026-11-25T08:00:14-05:00"
+  },
+  {
+   "id": "cl:dUf2LTCiR6js6p66dBzP1o",
+   "url": "https://www.craigslist.org/view/d/philadelphia-back-yard-deck-bed-apt-in/dUf2LTCiR6js6p66dBzP1o",
+   "title": "*******BACK YARD****** DECK * *******3 BED APT IN U CITY * ****",
+   "price": 2200,
+   "bedrooms": 3,
+   "sqft": null,
+   "location": "UNIVERSITY CITY / CLARK PARK",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:oeSimFQND6emQFkn7dQE2h",
@@ -2068,6 +2183,29 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-20T18:00:13-05:00"
+  },
+  {
+   "id": "cl:RBZdpfzp8RGbCtAGJ76Akg",
+   "url": "https://www.craigslist.org/view/d/philadelphia-cozy-elegance-in-the-heart/RBZdpfzp8RGbCtAGJ76Akg",
+   "title": "$1150.00 - 1br - Cozy Elegance in the Heart of South Philly - Quartz Suite",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:hNNDuPd6YBRtm3PpJEs7AX",
@@ -3244,6 +3382,30 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-17T16:23:59-05:00"
+  },
+  {
+   "id": "cl:w9vNLJi5NWSqnF7E42sYwr",
+   "url": "https://www.craigslist.org/view/d/philadelphia-brand-new-bed-bath-condo/w9vNLJi5NWSqnF7E42sYwr",
+   "title": "\u00f0 \u00bbBrand New 2 bed, 1 bath condo | Nazareth Hospital \u00f0 \u00bb",
+   "price": 840,
+   "bedrooms": 2,
+   "sqft": null,
+   "location": "Philadelphia",
+   "type": "entire",
+   "area": "philadelphia",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:3WJrML6QQTT7anakEmKV3K",
@@ -5994,6 +6156,30 @@
    "first_seen": "2026-11-15T21:16:56-05:00"
   },
   {
+   "id": "cl:qmEZNNbBkBBAmgU6s6pdar",
+   "url": "https://www.craigslist.org/view/d/gwynedd-stop-by-today-at-the-bed-bath/qmEZNNbBkBBAmgU6s6pdar",
+   "title": "Stop by today at the 1 bed / 1 bath of your dreams! 798 Sq Ft!",
+   "price": 1904,
+   "bedrooms": 1,
+   "sqft": 798,
+   "location": "North Wales - Oxford Park",
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
+  },
+  {
    "id": "cl:wDULLsYWF7meybjRBJaZjV",
    "url": "https://www.craigslist.org/view/d/gwynedd-cozy-place-for-you-and-your/wDULLsYWF7meybjRBJaZjV",
    "title": "A cozy place for you and your pets to call home. Pet friendly!",
@@ -6904,6 +7090,54 @@
    "odd_price": false,
    "duplicate": false,
    "first_seen": "2026-11-18T08:00:19-05:00"
+  },
+  {
+   "id": "cl:ntltHePp8RGwgeNbkFiMJQ",
+   "url": "https://www.craigslist.org/view/d/philadelphia-selenite/ntltHePp8RGwgeNbkFiMJQ",
+   "title": "$1295.00 - 1br - Selenite",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
+  },
+  {
+   "id": "cl:oPqZgvzp8RGqeP",
+   "url": "https://www.craigslist.org/view/d/philadelphia-obsidian/oPqZgvzp8RGqeP",
+   "title": "$1445.00 - 1br - Obsidian",
+   "price": null,
+   "bedrooms": null,
+   "sqft": null,
+   "location": null,
+   "type": "entire",
+   "area": "unclear",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": false,
+   "first_seen": "2026-11-27T08:00:15-05:00"
   },
   {
    "id": "cl:wEw2Arzi8RGQrvGDmSam8w",
@@ -8282,6 +8516,30 @@
    "first_seen": "2026-11-19T19:36:39-05:00"
   },
   {
+   "id": "cl:bHfrTAKjMqRWBfB4CoERxj",
+   "url": "https://www.craigslist.org/view/d/wynnewood-studio-apartment-ardmore/bHfrTAKjMqRWBfB4CoERxj",
+   "title": "Studio Apartment ARDMORE GREAT LOCATION",
+   "price": 1425,
+   "bedrooms": null,
+   "sqft": null,
+   "location": "Ardmore",
+   "type": "entire",
+   "area": "outside",
+   "verified": false,
+   "missing": [
+    "Parking",
+    "On-site laundry",
+    "Heating",
+    "Air conditioning",
+    "Internet",
+    "No basement bedroom",
+    "Neighborhood"
+   ],
+   "odd_price": false,
+   "duplicate": true,
+   "first_seen": "2026-11-27T08:00:15-05:00"
+  },
+  {
    "id": "cl:rtDxcKF2ZdsQYKxLGgRQTU",
    "url": "https://www.craigslist.org/view/d/wynnewood-studio-apartment-ardmore/rtDxcKF2ZdsQYKxLGgRQTU",
    "title": "Studio Apartment ARDMORE GREAT LOCATION",
@@ -9201,270 +9459,6 @@
    "bedrooms": 1,
    "sqft": 842,
    "location": "West Chester - 1515 Manley Rd",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:c6w8rFuZaJkMzc65AzcXUs",
-   "url": "https://www.craigslist.org/view/d/west-chester-discover-hidden-treasure/c6w8rFuZaJkMzc65AzcXUs",
-   "title": "Discover a hidden treasure in West Chester! Peaceful 1 bed, 1 bath",
-   "price": 1931,
-   "bedrooms": 1,
-   "sqft": 842,
-   "location": "West Chester - 1515 Manley Rd",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-24T08:00:16-05:00"
-  },
-  {
-   "id": "cl:cWyoMMda2VAiGiUj3yxuc4",
-   "url": "https://www.craigslist.org/view/d/west-chester-youve-never-seen-anything/cWyoMMda2VAiGiUj3yxuc4",
-   "title": "You've never seen anything like these deals! Call now!",
-   "price": 1931,
-   "bedrooms": 1,
-   "sqft": 842,
-   "location": "West Chester - The Gateway Apartments",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:daA7tweDRAYbhyAmWLotCv",
-   "url": "https://www.craigslist.org/view/d/west-chester-discover-hidden-treasure/daA7tweDRAYbhyAmWLotCv",
-   "title": "Discover a hidden treasure in West Chester! Peaceful 1 bed, 1 bath",
-   "price": 1931,
-   "bedrooms": 1,
-   "sqft": 842,
-   "location": "West Chester - The Gateway Apartments",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-24T08:00:16-05:00"
-  },
-  {
-   "id": "cl:kdKVB3zvTBTooiLaiiBouU",
-   "url": "https://www.craigslist.org/view/d/west-chester-quality-comfort-and/kdKVB3zvTBTooiLaiiBouU",
-   "title": "Quality, comfort, and convenience! All in this great 1 bed / 1 bath!",
-   "price": 1931,
-   "bedrooms": 1,
-   "sqft": 842,
-   "location": "West Chester - The Gateway Apartments",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:qvGrGSZ1GABkW76X6UJf8d",
-   "url": "https://www.craigslist.org/view/d/west-chester-discover-your-haven-check/qvGrGSZ1GABkW76X6UJf8d",
-   "title": "Discover your haven. Check out our 1 BR.",
-   "price": 1931,
-   "bedrooms": 1,
-   "sqft": 842,
-   "location": "West Chester - 1515 Manley Rd",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:axszZMGKhAcNS4VntGWq5f",
-   "url": "https://www.craigslist.org/view/d/phoenixville-bedroom-bathroom-plus/axszZMGKhAcNS4VntGWq5f",
-   "title": "2 Bedroom 2 Bathroom plus Office/Den/3rd Bedroom in Phoenixville",
-   "price": 1950,
-   "bedrooms": 2,
-   "sqft": 1200,
-   "location": "Phoneixville",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-18T08:00:19-05:00"
-  },
-  {
-   "id": "cl:7JXG2w9uobqsdUwrXHwjju",
-   "url": "https://www.craigslist.org/view/d/coatesville-desirable-location-bed-bath/7JXG2w9uobqsdUwrXHwjju",
-   "title": "Desirable location, 2 bed 2 bath, extraordinary views! Make it yours",
-   "price": 1996,
-   "bedrooms": 2,
-   "sqft": 1178,
-   "location": "Coatesville",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:98asHKdrb9RnWB4EoN3ZdV",
-   "url": "https://www.craigslist.org/view/d/coatesville-spacious-comfortable-1178/98asHKdrb9RnWB4EoN3ZdV",
-   "title": "Spacious, comfortable 1178 Sq Ft 2 bed, 2 bath! Now showing!",
-   "price": 1996,
-   "bedrooms": 2,
-   "sqft": 1178,
-   "location": "Coatesville",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:cThwnX5Jg68LwJ6c4ZTiNi",
-   "url": "https://www.craigslist.org/view/d/coatesville-where-memories-are-made/cThwnX5Jg68LwJ6c4ZTiNi",
-   "title": "Where memories are made: Experience our spacious 2 BR.",
-   "price": 1996,
-   "bedrooms": 2,
-   "sqft": 1178,
-   "location": "Coatesville",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:55-05:00"
-  },
-  {
-   "id": "cl:ciuGNJxid28MBxmD5Hhtrv",
-   "url": "https://www.craigslist.org/view/d/coatesville-world-of-style-exceptional/ciuGNJxid28MBxmD5Hhtrv",
-   "title": "A world of style: Exceptional 2 BR, 1178 Sq Ft spaces!",
-   "price": 1996,
-   "bedrooms": 2,
-   "sqft": 1178,
-   "location": "Coatesville",
-   "type": "entire",
-   "area": "outside",
-   "verified": false,
-   "missing": [
-    "Parking",
-    "On-site laundry",
-    "Heating",
-    "Air conditioning",
-    "Internet",
-    "No basement bedroom",
-    "Neighborhood"
-   ],
-   "odd_price": false,
-   "duplicate": false,
-   "first_seen": "2026-11-15T21:16:56-05:00"
-  },
-  {
-   "id": "cl:h2zbC8ipHVEvYCLnNPFXBe",
-   "url": "https://www.craigslist.org/view/d/coatesville-inspiring-surroundings/h2zbC8ipHVEvYCLnNPFXBe",
-   "title": "Inspiring surroundings, exquisite homes: Dive into our 2 BR.",
-   "price": 1996,
-   "bedrooms": 2,
-   "sqft": 1178,
-   "location": "Coatesville",
    "type": "entire",
    "area": "outside",
    "verified": false,
