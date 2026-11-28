@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T18:00:02-05:00",
+ "generated_at": "2026-11-28T08:00:02-05:00",
  "last_check": {
-  "finished_at": "2026-11-27T18:00:02-05:00",
+  "finished_at": "2026-11-28T08:00:02-05:00",
   "outcome": "reauthorize",
-  "message": "Google no longer accepts House Wren's scheduled-check authorization (it expired or was removed). Nothing was read. Run 'Authorize scheduled checks' again.",
+  "message": "Scheduled checks are not authorized yet, so nothing was read. Run 'Authorize scheduled checks' once (house_wren_check.py --authorize).",
   "new": 0
  },
  "nests": [
